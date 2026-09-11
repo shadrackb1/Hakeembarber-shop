@@ -1,10 +1,8 @@
-﻿# Hakeembarber shop
+# Hakeem Barber Studio
 
-Hakeem Barber Studio
+<img src="./assets/header.svg" width="100%" alt="Hakeem Barber Studio" />
 
-## Stack
-
-react Â· vite Â· typescript Â· node
+Booking and services for Hakeem Barber Studio.
 
 ## Run locally
 
@@ -13,4 +11,4 @@ react Â· vite Â· typescript Â· node
 
 ## License
 
-Private / all rights reserved.
+All rights reserved.
