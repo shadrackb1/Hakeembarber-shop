@@ -1,8 +1,12 @@
 # Hakeem Barber Studio
 
-<img src="./assets/header.svg" width="100%" alt="Hakeem Barber Studio" />
+Barbershop brand site.
 
-Booking and services for Hakeem Barber Studio.
+**Status:** brand site
+
+## Stack
+
+React, TypeScript, Vite
 
 ## Run locally
 
